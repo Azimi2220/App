@@ -1,2 +1,2 @@
 # App
-It is app for web
+It is an app for web
